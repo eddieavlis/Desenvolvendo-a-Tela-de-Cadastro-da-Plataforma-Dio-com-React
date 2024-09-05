@@ -1,6 +1,9 @@
 # Desenvolvendo a Tela de Cadastro da Plataforma Dio com React
 
-Este projeto foi inicializado com o Create React App .
+Este projeto foi desenvolvido como desfio do Bootcamp - XP Inc. - Full Stack Developer - DIO.
+Módulo: Gerenciando Componentes React
+
+Foi desenvolvido um clone da tela de cadastro da plataforma Dio.
 
 ## Scripts disponíveis
 
